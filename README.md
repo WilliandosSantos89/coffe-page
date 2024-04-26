@@ -32,11 +32,9 @@ Contribuições são sempre bem-vindas. Para contribuir, por favor, abra um *pul
 ## Licença
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-[![Link do Bootcamp](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer) 
-[![Link do Bootcamp](https://img.shields.io/badge/Acesse%20o%20Boobtcamp%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer)
 
 ## Objetivo 🎯
-Construir um sistema bancário simples com o uso da linguagem Python.
+Apresentar habilidades técnicas para criação de páginas usando HTML5 e CSS3.
 
 ## Ferramentas 🛠️
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
