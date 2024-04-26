@@ -29,7 +29,7 @@ Para visualizar a landing page, basta abrir o arquivo `index.html` em um navegad
 ## Contribua  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30px" height="30px" style="max-width: 100%;">
 Contribuições são sempre bem-vindas. Para contribuir, por favor, abra um *pull request* com suas sugestões.
 
-## Licença
+## Licença <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30px" height="30px">
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 
